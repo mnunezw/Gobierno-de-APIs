@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T14:23:32.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="G4qqDaz4GtUko1Ke_f4E" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T14:30:26.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="zOgrC2ozP4TldS-YBsz8" version="15.9.6" type="github">
   <diagram id="L6CM4IUpl8WZcLLqEAe8" name="Page-1">
     <mxGraphModel dx="1695" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -348,6 +348,9 @@
         </mxCell>
         <mxCell id="v-S7Pm7b8aDOwCeWG9hE-136" value="Gobierno de T-Open APIs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#23497D;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="125" y="-30" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NmvBYsq1x-41MStzK_MV-1" value="Nota: &lt;span style=&quot;font-weight: normal&quot;&gt;Todos los entregables que intervienen en las tareas deberán estar subidos en el Repositorio de Arquitectura Hispam.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#23497D;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="1320" width="670" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
