@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T23:29:32.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="WXEA7qPd989Hy5wJbwNA" version="16.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-22T23:36:59.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="aeSBzv2Kd3zGEU-qxU4U" version="16.0.3" type="github" pages="2">
   <diagram id="L6CM4IUpl8WZcLLqEAe8" name="Diagrama de Flujo">
-    <mxGraphModel dx="1695" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1741" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -340,8 +340,20 @@
         <mxCell id="v-S7Pm7b8aDOwCeWG9hE-136" value="Diagrama de Flujo - Gobierno de T-Open APIs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#23497D;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="25" y="-30" width="470" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NmvBYsq1x-41MStzK_MV-1" value="Nota: &lt;span style=&quot;font-weight: normal&quot;&gt;Todos los entregables que intervienen en las tareas deberán estar subidos en el Repositorio de Arquitectura Hispam.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#23497D;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="1320" width="670" height="20" as="geometry" />
+        <mxCell id="Xf7Lj_XGfSlxs88xvAQo-3" value="Leyenda" style="rounded=1;whiteSpace=wrap;html=1;comic=0;strokeColor=#666666;align=center;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-230" y="1320" width="460" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Xf7Lj_XGfSlxs88xvAQo-5" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=0;strokeColor=none;align=center;verticalAlign=top;fillColor=#67B1E1;fontColor=#FFFFFF;shadow=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Xf7Lj_XGfSlxs88xvAQo-6" value="Entregables subidos en el Repositorio Local" style="shape=partialRectangle;html=1;top=1;align=center;comic=0;strokeColor=#000000;strokeWidth=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-215" y="1354" width="360" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Xf7Lj_XGfSlxs88xvAQo-7" value="&lt;span&gt;Entregables subidos en el Repositorio de Arquitectura Hispam&lt;/span&gt;" style="shape=partialRectangle;html=1;top=1;align=center;comic=0;strokeColor=#000000;fontStyle=0;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="1388" width="360" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Xf7Lj_XGfSlxs88xvAQo-12" value="" style="rounded=1;whiteSpace=wrap;html=1;comic=0;align=center;verticalAlign=top;fillColor=#FFB570;strokeColor=none;fontColor=#FFFFFF;shadow=0;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="1356" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
