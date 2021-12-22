@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-22T18:17:42.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="_gGyJ5iOydBAlTDOeOAp" version="16.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-22T18:20:35.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Q5uJ2586yHaTYhkdgwIn" version="16.0.3" type="github" pages="2">
   <diagram id="L6CM4IUpl8WZcLLqEAe8" name="Diagrama de Flujo">
-    <mxGraphModel dx="1695" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2067" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -346,8 +346,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v-S7Pm7b8aDOwCeWG9hE-136" value="Gobierno de T-Open APIs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#23497D;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="125" y="-30" width="270" height="30" as="geometry" />
+        <mxCell id="v-S7Pm7b8aDOwCeWG9hE-136" value="Diagrama de Flujo - Gobierno de T-Open APIs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#23497D;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="25" y="-30" width="470" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NmvBYsq1x-41MStzK_MV-1" value="Nota: &lt;span style=&quot;font-weight: normal&quot;&gt;Todos los entregables que intervienen en las tareas deberán estar subidos en el Repositorio de Arquitectura Hispam.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#23497D;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="-250" y="1320" width="670" height="20" as="geometry" />
