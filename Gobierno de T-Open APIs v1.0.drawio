@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T14:26:39.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="FBqq_sBk0Q74f5tCKgHN" version="16.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-17T16:35:45.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="OotXa4-eTSdeHN7um90T" version="16.2.7" type="github" pages="2">
   <diagram id="L6CM4IUpl8WZcLLqEAe8" name="Diagrama de Flujo">
-    <mxGraphModel dx="1695" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2147" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,6 +226,33 @@
         <mxCell id="v-S7Pm7b8aDOwCeWG9hE-139" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/office-icon-set-3/128/users.png;sketch=1;fontSize=13;fontColor=#FF3333;fillColor=#FF3333;" parent="x-U8saCdWv5BzLE1M_aa-1860" vertex="1">
           <mxGeometry x="50" y="10" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="v-S7Pm7b8aDOwCeWG9hE-124" value="T11 - Actualizar Inventario de T-Open APIs Hispam" style="whiteSpace=wrap;strokeColor=none;fillColor=#23497D;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=1;html=1;fontSize=12;" parent="x-U8saCdWv5BzLE1M_aa-1860" vertex="1">
+          <mxGeometry x="50" y="1105" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="v-S7Pm7b8aDOwCeWG9hE-126" value="" style="endArrow=none;html=1;fontColor=#FFFFFF;shadow=0;fontSize=12;fontStyle=1;verticalAlign=middle;strokeColor=#67B1E1;fillColor=#008a00;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="x-U8saCdWv5BzLE1M_aa-1860" source="v-S7Pm7b8aDOwCeWG9hE-124" target="v-S7Pm7b8aDOwCeWG9hE-128" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="1110" as="sourcePoint" />
+            <mxPoint x="760" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-S7Pm7b8aDOwCeWG9hE-128" value="Inventario de&lt;br&gt;T-Open APIs Hispam Actualizado" style="shape=document;whiteSpace=wrap;verticalAlign=top;strokeColor=none;fillColor=#67B1E1;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=1;html=1;fontSize=12;" parent="x-U8saCdWv5BzLE1M_aa-1860" vertex="1">
+          <mxGeometry x="210" y="1090" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="v-S7Pm7b8aDOwCeWG9hE-129" value="" style="html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontColor=#FFFFFF;shadow=0;fontStyle=1;strokeColor=none;fillColor=#FF3333;" parent="x-U8saCdWv5BzLE1M_aa-1860" vertex="1">
+          <mxGeometry x="245" y="1220" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="v-S7Pm7b8aDOwCeWG9hE-130" value="Fin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;fontStyle=1" parent="x-U8saCdWv5BzLE1M_aa-1860" vertex="1">
+          <mxGeometry x="245" y="1200" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v-S7Pm7b8aDOwCeWG9hE-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;strokeColor=#23497D;strokeWidth=2;endFill=1;endArrow=open;" parent="x-U8saCdWv5BzLE1M_aa-1860" source="v-S7Pm7b8aDOwCeWG9hE-124" target="v-S7Pm7b8aDOwCeWG9hE-129" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-660" y="980" as="sourcePoint" />
+            <mxPoint x="-140" y="1030" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="105" y="1235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="x-U8saCdWv5BzLE1M_aa-1851" value="" style="edgeStyle=segmentEdgeStyle;strokeColor=#23497D;strokeWidth=2;html=1;endArrow=open;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="v-S7Pm7b8aDOwCeWG9hE-6" target="x-U8saCdWv5BzLE1M_aa-1861" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="90" y="490" as="sourcePoint" />
@@ -265,41 +292,6 @@
             <mxPoint x="450" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v-S7Pm7b8aDOwCeWG9hE-60" value="&lt;span style=&quot;color: rgb(35 , 73 , 125)&quot;&gt;Arquitectura Hispam - Integración&lt;/span&gt;" style="swimlane;whiteSpace=wrap;fillColor=#D4E1F5;swimlaneFillColor=#D4E1F5;fontColor=#660000;fontFamily=Tahoma;html=1;strokeColor=none;startSize=50;align=center;" parent="1" vertex="1">
-          <mxGeometry x="440" y="20" width="340" height="1280" as="geometry">
-            <mxRectangle x="20" y="20" width="80" height="23" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="v-S7Pm7b8aDOwCeWG9hE-124" value="T11 - Actualizar Inventario de T-Open APIs Hispam" style="whiteSpace=wrap;strokeColor=none;fillColor=#23497D;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=1;html=1;fontSize=12;" parent="v-S7Pm7b8aDOwCeWG9hE-60" vertex="1">
-          <mxGeometry x="30" y="1105" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="v-S7Pm7b8aDOwCeWG9hE-126" value="" style="endArrow=none;html=1;fontColor=#FFFFFF;shadow=0;fontSize=12;fontStyle=1;verticalAlign=middle;strokeColor=#67B1E1;fillColor=#008a00;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="v-S7Pm7b8aDOwCeWG9hE-60" source="v-S7Pm7b8aDOwCeWG9hE-124" target="v-S7Pm7b8aDOwCeWG9hE-128" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="1110" as="sourcePoint" />
-            <mxPoint x="740" y="1040" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="v-S7Pm7b8aDOwCeWG9hE-128" value="Inventario de&lt;br&gt;T-Open APIs Hispam Actualizado" style="shape=document;whiteSpace=wrap;verticalAlign=top;strokeColor=none;fillColor=#67B1E1;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=1;html=1;fontSize=12;" parent="v-S7Pm7b8aDOwCeWG9hE-60" vertex="1">
-          <mxGeometry x="190" y="1090" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="v-S7Pm7b8aDOwCeWG9hE-129" value="" style="html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fontColor=#FFFFFF;shadow=0;fontStyle=1;strokeColor=none;fillColor=#FF3333;" parent="v-S7Pm7b8aDOwCeWG9hE-60" vertex="1">
-          <mxGeometry x="225" y="1220" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="v-S7Pm7b8aDOwCeWG9hE-130" value="Fin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;fontStyle=1" parent="v-S7Pm7b8aDOwCeWG9hE-60" vertex="1">
-          <mxGeometry x="225" y="1200" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="v-S7Pm7b8aDOwCeWG9hE-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;strokeColor=#23497D;strokeWidth=2;endFill=1;endArrow=open;" parent="v-S7Pm7b8aDOwCeWG9hE-60" source="v-S7Pm7b8aDOwCeWG9hE-124" target="v-S7Pm7b8aDOwCeWG9hE-129" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-680" y="980" as="sourcePoint" />
-            <mxPoint x="-160" y="1030" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="85" y="1235" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="v-S7Pm7b8aDOwCeWG9hE-140" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/office-icon-set-3/128/users.png;sketch=1;fontSize=13;fontColor=#FF3333;fillColor=#FF3333;" parent="v-S7Pm7b8aDOwCeWG9hE-60" vertex="1">
-          <mxGeometry x="30" y="10" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="v-S7Pm7b8aDOwCeWG9hE-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;strokeColor=#23497D;strokeWidth=2;endFill=1;endArrow=open;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="v-S7Pm7b8aDOwCeWG9hE-32" target="v-S7Pm7b8aDOwCeWG9hE-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="690" as="sourcePoint" />
@@ -338,7 +330,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v-S7Pm7b8aDOwCeWG9hE-136" value="Diagrama de Flujo - Gobierno de T-Open APIs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=21;fontColor=#23497D;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="25" y="-30" width="470" height="30" as="geometry" />
+          <mxGeometry x="-150" y="-30" width="470" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xf7Lj_XGfSlxs88xvAQo-3" value="Leyenda" style="rounded=1;whiteSpace=wrap;html=1;comic=0;strokeColor=#666666;align=center;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-230" y="1320" width="450" height="110" as="geometry" />
@@ -359,7 +351,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gABTJUwFaToDGiIuXznw" name="Matriz RACI">
-    <mxGraphModel dx="1335" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8kYS2zcbFoUoo52wVz2M-0" />
         <mxCell id="8kYS2zcbFoUoo52wVz2M-1" parent="8kYS2zcbFoUoo52wVz2M-0" />
