@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T16:35:45.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="OotXa4-eTSdeHN7um90T" version="16.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-17T19:42:29.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="RQYN-3fPizQuFvQ_PvlC" version="16.2.7" type="github" pages="2">
   <diagram id="L6CM4IUpl8WZcLLqEAe8" name="Diagrama de Flujo">
     <mxGraphModel dx="2147" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
             <mxPoint x="170.00000000000023" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v-S7Pm7b8aDOwCeWG9hE-37" value="T07 - Elaborar Perfil Técnico de T-Open APIs" style="whiteSpace=wrap;strokeColor=none;fillColor=#23497D;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=1;html=1;fontSize=12;" parent="x-U8saCdWv5BzLE1M_aa-1847" vertex="1">
+        <mxCell id="v-S7Pm7b8aDOwCeWG9hE-37" value="T07 - Elaborar Perfil Técnico (Mapeo) de T-Open APIs" style="whiteSpace=wrap;strokeColor=none;fillColor=#23497D;shadow=0;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=1;html=1;fontSize=12;" parent="x-U8saCdWv5BzLE1M_aa-1847" vertex="1">
           <mxGeometry x="30" y="770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v-S7Pm7b8aDOwCeWG9hE-107" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="x-U8saCdWv5BzLE1M_aa-1847" vertex="1" connectable="0">
@@ -351,7 +351,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gABTJUwFaToDGiIuXznw" name="Matriz RACI">
-    <mxGraphModel dx="1320" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8kYS2zcbFoUoo52wVz2M-0" />
         <mxCell id="8kYS2zcbFoUoo52wVz2M-1" parent="8kYS2zcbFoUoo52wVz2M-0" />
